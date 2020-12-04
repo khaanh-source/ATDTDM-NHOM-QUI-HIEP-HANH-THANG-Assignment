@@ -37,25 +37,22 @@ Hoàn tất
 Click create new model để tạo database
 ![](media/image5.png)
 
-![](media/image6.png){width="2.9877449693788276in"
-height="2.2083333333333335in"}
+![](media/image6.png)
 
 Đặt tên, cấu hình cho database -\> start modeling
 
-![](media/image7.png){width="5.573694225721785in"
-height="7.032230971128609in"}
+![](media/image7.png)
 
 Hoàn thành: giao diện chính
 
-![](media/image8.png){width="5.146551837270342in"
-height="2.635784120734908in"}
+![](media/image8.png)
 
 Tiến hành tạo bảng :
 
 Click add table
 
-![](media/image9.png){width="3.6255063429571304in"
-height="2.1148786089238847in"}
+![](media/image9.png)
+
 
 Hoàn tất
 
@@ -69,8 +66,8 @@ Click vào + add column để thêm cột cho bảng
 
 Click PK để đặt khóa chính cho bảng, click N để cho phép cột được NULL
 
-![](media/image11.png){width="3.43798009623797in"
-height="4.448537839020123in"}
+![](media/image11.png)
+
 
 Tạo quan hệ :
 
@@ -80,8 +77,8 @@ Click references và click biểu tượng trên thanh công cụ
 
 Click chuột vào bảng KHACHHANG và rê chuột sang bảng HOADON
 
-![](media/image13.png){width="4.594390857392826in"
-height="2.3232403762029747in"}
+![](media/image13.png)
+
 
 Click vào sợi quan hệ để chỉnh sửa quan hệ
 
@@ -109,9 +106,9 @@ Click vào biều tượng SQL -\> generate -\> download
 
 ![](media/image18.png)
 
-![](media/image19.png){width="4.844425853018373in"
-height="2.2086417322834646in"}**\
-**Mở file vừa download lên bằng MySQL WorkBench 8.0 CE
+![](media/image19.png)
+
+Mở file vừa download lên bằng MySQL WorkBench 8.0 CE
 
 ![](media/image20.png)
 
@@ -137,8 +134,8 @@ KIỂM TRA:
 
 ![](media/image24.png)
 
-![](media/image25.png){width="4.938188976377953in"
-height="1.6460629921259842in"}
+![](media/image25.png)
+
 
 **Yêu cầu 2. Xây dựng 1 ứng dụng web kết nối với database**\
 Ứng dụng NodeJS -- MySQL
@@ -177,13 +174,13 @@ Add remote repo:
 
 Add các file có trong thư mục chuẩn bị đẩy lên git:
 
-![](media/image36.png){width="4.698572834645669in"
-height="0.3021259842519685in"}
+![](media/image36.png)
+
 
 Đưa message để ghi chú commit:
 
-![](media/image37.png){width="5.677876202974629in"
-height="0.22919838145231847in"}
+![](media/image37.png)
+
 
 Push code lên git:
 
