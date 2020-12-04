@@ -1,11 +1,3 @@
-+--------------------------------------+------------------------------+
-| ![](media/imag                       | > **BAN CƠ YẾU CHÍNH PHỦ**   |
-| e1.png){width="1.9791666666666667in" |                              |
-| height="2.044349300087489in"}        | **HỌC VIỆN KỸ THUẬT MẬT MÃ** |
-|                                      |                              |
-|                                      | **KHOA CÔNG NGHỆ THÔNG TIN** |
-+--------------------------------------+------------------------------+
-
 **BÁO CÁO**
 
 **AN TOÀN ĐIỆN TOÁN ĐÁM MÂY**
@@ -30,21 +22,20 @@ Truy cập trang: <https://my.vertabelo.com/>
 
 Click sign up
 
-![](media/image2.png){width="6.490488845144357in"
-height="2.917073490813648in"}
+![](media/image2.png)
 
 Điền thông tin -\> create account
 
-![](media/image3.png){width="6.5in" height="1.7291666666666667in"}
+![](media/image3.png)
 
 Chọn chế độ
 
-![](media/image4.png){width="6.5in" height="4.225694444444445in"}
+![](media/image4.png)
 
 Hoàn tất
 
 Click create new model để tạo database
-![](media/image5.png){width="6.5in" height="0.7493055555555556in"}
+![](media/image5.png)
 
 ![](media/image6.png){width="2.9877449693788276in"
 height="2.2083333333333335in"}
@@ -68,7 +59,7 @@ height="2.1148786089238847in"}
 
 Hoàn tất
 
-![](media/image10.png){width="6.5in" height="2.626388888888889in"}
+![](media/image10.png)
 
 Click vào bên phải để đặt tên và thêm cột cho bảng
 
@@ -85,8 +76,7 @@ Tạo quan hệ :
 
 Click references và click biểu tượng trên thanh công cụ
 
-![](media/image12.png){width="6.375890201224847in"
-height="2.385749125109361in"}
+![](media/image12.png)
 
 Click chuột vào bảng KHACHHANG và rê chuột sang bảng HOADON
 
@@ -95,39 +85,39 @@ height="2.3232403762029747in"}
 
 Click vào sợi quan hệ để chỉnh sửa quan hệ
 
-![](media/image14.png){width="6.5in" height="2.689583333333333in"}
+![](media/image14.png)
 
 Xóa dòng KHACHHANG_makh được tự tạo
 
-![](media/image15.png){width="6.5in" height="1.9638888888888888in"}
+![](media/image15.png)
 
 Click vào dây quan hệ để tạo quan hệ mới
 
 Chọn makh ở 2 bảng -\> add
 
-![](media/image16.png){width="6.5in" height="2.6041666666666665in"}
+![](media/image16.png)
 
 Làm tương tự cho các bảng còn lại
 
 Hoàn thành:
 
-![](media/image17.png){width="6.5in" height="4.4527777777777775in"}
+![](media/image17.png)
 
 Xuất database vừa tạo
 
 Click vào biều tượng SQL -\> generate -\> download
 
-![](media/image18.png){width="6.5in" height="3.7534722222222223in"}
+![](media/image18.png)
 
 ![](media/image19.png){width="4.844425853018373in"
 height="2.2086417322834646in"}**\
 **Mở file vừa download lên bằng MySQL WorkBench 8.0 CE
 
-![](media/image20.png){width="6.5in" height="1.9361111111111111in"}
+![](media/image20.png)
 
 Chúng ta sẽ có đoạn script để tạo database đã thao tác trên vertabelo
 
-![](media/image21.png){width="6.5in" height="5.960416666666666in"}
+![](media/image21.png)
 
 Thêm
 
@@ -137,15 +127,15 @@ Use NHOMQHHT
 
 Ctrl + Shift + Enter -\> đã tạo thành công database
 
-![](media/image22.png){width="6.5in" height="0.4361111111111111in"}
+![](media/image22.png)
 
 Tiến hành nhập dữ liệu cho databse :
 
-![](media/image23.png){width="6.5in" height="2.53125in"}
+![](media/image23.png)
 
 KIỂM TRA:
 
-![](media/image24.png){width="6.5in" height="0.7770833333333333in"}
+![](media/image24.png)
 
 ![](media/image25.png){width="4.938188976377953in"
 height="1.6460629921259842in"}
@@ -153,38 +143,37 @@ height="1.6460629921259842in"}
 **Yêu cầu 2. Xây dựng 1 ứng dụng web kết nối với database**\
 Ứng dụng NodeJS -- MySQL
 
-![](media/image26.png){width="6.5in" height="3.4277777777777776in"}
+![](media/image26.png)
 
 Code:
 
-![](media/image27.png){width="6.5in" height="1.5020833333333334in"}
+![](media/image27.png)
 
-![](media/image28.png){width="6.5in" height="3.702777777777778in"}
+![](media/image28.png)
 
-![](media/image29.png){width="6.355053587051619in"
-height="7.355193569553806in"}
+![](media/image29.png)
 
-![](media/image30.png){width="6.5in" height="7.231944444444444in"}
+![](media/image30.png)
 
 Giao diện web
 
-![](media/image31.png){width="6.5in" height="3.698611111111111in"}
+![](media/image31.png)
 
 **Yêu cầu 3: Up Code lên github:**
 
 Tạo Repository
 
-![](media/image32.png){width="6.5in" height="5.4215277777777775in"}
+![](media/image32.png)
 
-![](media/image33.png){width="6.5in" height="3.348611111111111in"}
+![](media/image33.png)
 
 Khởi tạo git:
 
-![](media/image34.png){width="6.5in" height="0.6923611111111111in"}
+![](media/image34.png)
 
 Add remote repo:
 
-![](media/image35.png){width="6.5in" height="0.3729166666666667in"}
+![](media/image35.png)
 
 Add các file có trong thư mục chuẩn bị đẩy lên git:
 
@@ -198,8 +187,8 @@ height="0.22919838145231847in"}
 
 Push code lên git:
 
-![](media/image38.png){width="6.5in" height="2.703472222222222in"}
+![](media/image38.png)
 
 Kiểm tra
 
-![](media/image39.png){width="6.5in" height="2.604861111111111in"}
+![](media/image39.png)
