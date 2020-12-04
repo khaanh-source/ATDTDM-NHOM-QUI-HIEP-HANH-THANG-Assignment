@@ -15,7 +15,12 @@
 > **Lớp: AT13M**
 
 *Thành phố Hồ Chí Minh, tháng 12 năm 2020*
-
+----
+[1. Xây dựng một database](#1)
+[2. Xây dựng 1 ứng dụng web kết nối với database](#2)
+[3. Up Code lên github](#3)
+----
+<a name ="1"> </a>
 **Yêu cầu 1: Xây dựng một database**
 
 Truy cập trang: <https://my.vertabelo.com/>
@@ -136,7 +141,7 @@ KIỂM TRA:
 
 ![](media/image25.png)
 
-
+<a name ="2"> </a>
 **Yêu cầu 2. Xây dựng 1 ứng dụng web kết nối với database**\
 Ứng dụng NodeJS -- MySQL
 
@@ -156,6 +161,7 @@ Giao diện web
 
 ![](media/image31.png)
 
+<a name ="3"> </a>
 **Yêu cầu 3: Up Code lên github:**
 
 Tạo Repository
