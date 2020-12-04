@@ -19,7 +19,9 @@
 ----
 
 [1. Xây dựng một database](#1)
+
 [2. Xây dựng 1 ứng dụng web kết nối với database](#2)
+
 [3. Up Code lên github](#3)
 
 ----
