@@ -1,0 +1,9 @@
+Vertableo Account:
+username: rt.test1010@gmail.com
+password: uXz7o7nhikEq2ua374Ht
+--------------------------------
+MySQL Account:
+username: kma-quipp
+password: uXz7o7nhikEq2ua374Ht
+--------------------------------
+Github Link: https://github.com/phamphuqui1998/ATDTDM
